@@ -1,0 +1,9 @@
+node_modules
+.agent
+database/qr-code
+database/*.json
+*.log
+.env
+settings/settings.json
+session/
+armor/
